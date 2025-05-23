@@ -1,3 +1,16 @@
+# 🏥 Symfony Medical Management System
+
+A Symfony 6 web application to manage medical data including doctors, patients, analyses, and blog content. Built using the Symfony framework with Doctrine ORM, custom forms, and Twig templating.
+
+## 🧰 Features
+
+- Manage **Doctors (Médecins)** with add/edit/delete.
+- Register and view **Patients**.
+- Handle **Medical Analyses**.
+- Form-based input validation.
+- Templating with Twig.
+- Data persistence with Doctrine ORM.
+
 ![image](https://github.com/user-attachments/assets/fd2ed86f-6109-436c-8776-0655c11a97f2)
 ![image](https://github.com/user-attachments/assets/356f9df4-5021-4cfe-b76a-489883512464)
 ![image](https://github.com/user-attachments/assets/013c2ce9-5869-4d89-bd73-329ade1c043a)
